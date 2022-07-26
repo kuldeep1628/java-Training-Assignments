@@ -1,5 +1,3 @@
-import java.util.PrimitiveIterator.OfDouble;
-
 public class ProducingObjectAssignment {
 	public static void main(String[] args) {
 	
