@@ -37,7 +37,7 @@ public class HashSetTest {
 	}
 }
 
-class Book1
+class Book1 implements Serializable
 {
 	String title;
 
